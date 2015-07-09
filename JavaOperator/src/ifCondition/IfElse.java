@@ -1,5 +1,9 @@
 package ifCondition;
-
+/*
+ * @ Date : 2015.07.08
+ * @ Author : me
+ * @ Story : IfEsle 사용법
+ */
 public class IfElse {
 	public static void main(String[] args) {
 		int x =1 ,y =2 ; //지변초기화

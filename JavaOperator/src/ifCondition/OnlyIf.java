@@ -1,5 +1,9 @@
 package ifCondition;
-
+/*
+ * @ Date : 2015.07.08
+ * @ Author : me
+ * @ Story : OnlyIf 테스트
+ */
 public class OnlyIf {
 	public static void main(String[] args) {
 		int x =1 ,y =2 ; //지변초기화

@@ -1,7 +1,11 @@
 package variable;
 
 import java.util.Scanner;
-
+/*
+ * @ Date : 2015.07.08
+ * @ Author : me
+ * @ Story : InputTotal
+ */
 public class InputTotal {
 	public static void main(String[] args) {
 		

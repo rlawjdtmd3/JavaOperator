@@ -1,7 +1,11 @@
 package operator;
 
 import java.util.Scanner;
-
+/*
+ * @ Date : 2015.07.09
+ * @ Author : me
+ * @ Story : 시간 분 초로 환산하는 프로그램
+ */
 public class TimeSeperator {
 	public static void main(String[] args) {
 		/*

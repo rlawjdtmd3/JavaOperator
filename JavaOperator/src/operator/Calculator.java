@@ -1,7 +1,11 @@
 package operator;
 
 import java.util.Scanner;
-
+/*
+ * @ Date : 2015.07.08
+ * @ Author : me
+ * @ Story : 계산기
+ */
 public class Calculator {
 	public static void main(String[] args) {
 		/*
