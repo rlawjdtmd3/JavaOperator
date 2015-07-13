@@ -6,6 +6,7 @@ package controller;
  */
 
 
+import Loop.EvenOddSum;
 import condition.ArithmeticCalc;
 import condition.CalcAvg;
 import condition.ManOrWoman;
@@ -28,6 +29,9 @@ public class OperatorController {
 		// 2015.07.10 ssn테스트기
 		ManOrWoman manOrWoman = new ManOrWoman();
 		manOrWoman.ssn(); //ssn() 원 클래스의 메소드 이름이다.
-		
+	
+		// 2015.07.13 홀짝구분해서 합구하기
+		EvenOddSum evenOddSum = new EvenOddSum();
+		evenOddSum.calc(); // 객체가 메소드를 호출한다.
 	}
 }
